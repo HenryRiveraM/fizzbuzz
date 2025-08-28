@@ -38,17 +38,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "864b23838c9ecb1e91ca083dd7b3b3ed8b7eeedf",
     "author": "Henry Alejandro Rivera Mendez",
     "commit": {
       "date": "2025-08-28T03:10:08.000Z",
       "message": "feat: agregando la ultima prueba de los multiplos 3 y 5 fizzbuzz",
-      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/864b23838c9ecb1e91ca083dd7b3b3ed8b7eeedf"
     },
     "stats": {
       "total": 18,
       "additions": 11,
       "deletions": 7,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Henry Alejandro Rivera Mendez",
+    "commit": {
+      "date": "2025-08-28T03:15:23.000Z",
+      "message": "feat: agregando la parte de index",
+      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 33,
+      "additions": 16,
+      "deletions": 17,
       "date": "2025-08-28"
     },
     "coverage": 100,
