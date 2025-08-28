@@ -1,0 +1,8 @@
+- covertirFizzbuzz(n):
+    - numero no multiplo de 3 y 5. ejemplo 1 -> '1'
+    - numero multiplo de 3 Ejm 3 -> 'Fizz'
+    - numero multiplo de 5 Ejm -> 'Buzz'
+    - numero multiplo de 3 y 5 Ejm 15 -> 'Fizz'
+- generar cadena FizzBuzz (4):
+    - dado un numero por usr: generar toda la secuencia fizzbuzz hasta  ese numero 
+    Ejem : '1 2 Fizz 4'

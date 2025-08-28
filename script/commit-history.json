@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Henry Alejandro Rivera Mendez",
+    "commit": {
+      "date": "2025-08-28T02:51:24.000Z",
+      "message": "feat: agregando lo avanzado en clase",
+      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 36,
+      "additions": 36,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 25,
+    "test_count": 4,
+    "failed_tests": 3,
+    "conclusion": "failure"
+  }
+]
