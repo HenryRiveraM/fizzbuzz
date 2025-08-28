@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "86ebbfba4573a8bb92e2897e63509d38340986fb",
     "author": "Henry Alejandro Rivera Mendez",
     "commit": {
       "date": "2025-08-28T03:15:23.000Z",
       "message": "feat: agregando la parte de index",
-      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/86ebbfba4573a8bb92e2897e63509d38340986fb"
     },
     "stats": {
       "total": 33,
       "additions": 16,
       "deletions": 17,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Henry Alejandro Rivera Mendez",
+    "commit": {
+      "date": "2025-08-28T03:19:20.000Z",
+      "message": "feat: agregando el codigo para pedir numero al usuario",
+      "url": "https://github.com/HenryRiveraM/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 14,
+      "deletions": 1,
       "date": "2025-08-28"
     },
     "coverage": 100,
